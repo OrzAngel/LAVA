@@ -1,6 +1,8 @@
 # LAVA
 
-*Temperature + Pebble = heat + stone = LAVA!*
+  Temperature + Pebble \
+= heat + stone \
+= LAVA!
 
 A Pebble smartwatch app that monitors temperature on remote Arduino sensor with configurable display and alert modes
 
